@@ -1,6 +1,6 @@
 <table>
 	<td>
-		<img src="kweon7182.github.io/pics/Pic_00.jpg?raw=true" width="280p" />
+		<img src="pics/Pic_00.jpg?raw=true" width="280p" />
 	</td>
 	<td>
 		<h3>Contact</h3>
