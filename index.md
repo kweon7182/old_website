@@ -1,10 +1,6 @@
-foo
-===========================
-Bar
------------
-# baz
-
-## Title
+---
+title: This will be used as the title-tag of the page head
+---
 
 You can use the [editor on GitHub](https://github.com/kweon7182/kweon7182.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
