@@ -1,4 +1,4 @@
-<table border=ㅋ  style='border-left:0;border-right:0;border-bottom:0;border-top:0'>
+<table border=0 style='border-left:0;border-right:0;border-bottom:0;border-top:0'>
     <td>
         <img src="pics/Pic_00.jpg?raw=true" width="280p" />
     </td>
