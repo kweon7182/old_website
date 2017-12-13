@@ -1,5 +1,18 @@
 ![Alt text](kweon7182.github.io/pics/Pic_00.jpg "Myself"){:height="320px" width="280px"}
 
+<table>
+	<td>
+		<img src="https://github.com/kweon7182/kweon7182.github.io/blob/master/pics/Pic_00.jpg?raw=true" width="150p" /></a>
+	</td>
+	<td>
+		<h3>Contact</h3>
+		MIT D1<br/>
+		77 2 Avenue<br/>
+		3,<br/>
+		chasdfwa
+	</td>
+</table>
+
 ## Contact
 
 ## About
