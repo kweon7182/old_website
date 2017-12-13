@@ -1,4 +1,4 @@
-![Alt text](kweon7182.github.io/pics/Pic_00.jpg "Myself")
+![Alt text](kweon7182.github.io/pics/Pic_00.jpg "Myself"){:height="160px" width="140px"}
 
 ## Contact
 
