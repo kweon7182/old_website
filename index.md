@@ -1,3 +1,12 @@
+table {
+    border-collapse: collapse;
+}
+
+/* remove padding */
+td, th {
+    padding: 0;
+}
+
 <table style="border-collapse: collapse; border: none;">
     <td>
         <img src="pics/Pic_00.jpg?raw=true" width="280p" />
