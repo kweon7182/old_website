@@ -1,4 +1,4 @@
-<table style="border:0">
+<table style="border-collapse: collapse; border: none;">
     <td>
         <img src="pics/Pic_00.jpg?raw=true" width="280p" />
     </td>
@@ -14,4 +14,4 @@
 I am a graduate student in the Department of Mathematics at MIT.
 
 ## CV
-Link
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
