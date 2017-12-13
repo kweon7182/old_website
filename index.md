@@ -3,6 +3,9 @@
 ## Contact
 
 ## About
+I am a graduate student in the Department of Mathematics at MIT.
+
+
 
 ## CV
 
