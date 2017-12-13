@@ -3,11 +3,10 @@
 		<img src="pics/Pic_00.jpg?raw=true" width="280p" />
 	</td>
 	<td>
-		<h3>Contact</h3>
-		MIT D1<br/>
-		77 2 Avenue<br/>
-		3,<br/>
-		chasdfwa
+		<h2>Contact</h2>
+		National Institute for Mathematical Sciences<br/>
+		70, Yuseong-daero 1689beon-gil, Yuseong-gu, Daejeon, Republic of Korea<br/>
+		Email: kweon@nims.re.kr
 	</td>
 </table>
 
