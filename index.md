@@ -15,7 +15,11 @@
 ## About
 I am currently serving in National Institute for Mathematical Sciences (NIMS) as technical research personnel for compulsory military service of South Korea. Before I joined NIMS, I was a graduate student in the Department of Mathematics at MIT.
 
-My advisor is Bjorn Poonen, and I will return to the school in Fall 2018 as a third year graduate student. My interests lie in algebraic geometry and number theory.
+My advisor is 
+<a href="http://www-math.mit.edu/~poonen/">
+    Bjorn Poonen
+</a>
+, and I will return to the school in Fall 2018 as a third year graduate student. My interests lie in algebraic geometry and number theory.
 
 ## CV
 [link](https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf)
