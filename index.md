@@ -13,7 +13,9 @@
 </table>
 
 ## About
-I am a graduate student in the Department of Mathematics at MIT.
+I am currently serving in NIMS as technical research personnel for compulsory military service of Sourh. Before I joined NIMS, I was a graduate student in the Department of Mathematics at MIT.
+
+My asvisor is Bjorn Poonen, and I will return to the school in Fall 2018 as a third year graduate student. My interests lie in algebraic geometry and number theory.
 
 ## CV
 [link](https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf)
