@@ -4,8 +4,10 @@
     </td>
     <td>
         <h2>Contact</h2>
-        National Institute for Mathematical Sciences<br/>
-        70, Yuseong-daero 1689beon-gil, Yuseong-gu, Daejeon, Republic of Korea<br/>
+        <a href="https://www.nims.re.kr/eng/">
+            National Institute for Mathematical Sciences</a><br/>
+        70, Yuseong-daero 1689beon-gil, Yuseong-gu,<br/>
+        Daejeon, Republic of Korea<br/>
         Email: kweon@nims.re.kr
     </td>
 </table>
