@@ -3,7 +3,7 @@ remote_theme: alshedivat/al-folio
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
+name: Hyuk Jun Kweon
 email: you@example.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -19,9 +19,6 @@ last_updated: # leave blank if you don't want to display last updated
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: # put your github username
-twitter_username: # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
