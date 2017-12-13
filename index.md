@@ -1,8 +1,6 @@
-![Alt text](kweon7182.github.io/pics/Pic_00.jpg "Myself"){:height="320px" width="280px"}
-
 <table>
 	<td>
-		<img src="https://github.com/kweon7182/kweon7182.github.io/blob/master/pics/Pic_00.jpg?raw=true" width="150p" /></a>
+		<img src="kweon7182.github.io/pics/Pic_00.jpg?raw=true" width="280p" />
 	</td>
 	<td>
 		<h3>Contact</h3>
