@@ -5,7 +5,7 @@
     <td>
         <h2>Contact</h2>
         <a href="https://www.nims.re.kr/eng/">
-            National Institute for Mathematical Sciences</a><br/>
+            National Institute for Mathematical Sciences | South Korea</a><br/>
         70, Yuseong-daero 1689beon-gil, Yuseong-gu,<br/>
         Daejeon, Republic of Korea<br/>
         Email: kweon@nims.re.kr
