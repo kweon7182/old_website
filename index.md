@@ -1,4 +1,4 @@
-<table>
+<table border="0">
     <td>
         <img src="pics/Pic_00.jpg?raw=true" width="280p" />
     </td>
