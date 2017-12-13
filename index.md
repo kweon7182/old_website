@@ -15,5 +15,4 @@ I am a graduate student in the Department of Mathematics at MIT.
 
 ## CV
 [a link](https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf)
-
-<A HREF="https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf#page=2"> Link </A>
+<p><b><font size="+1"> <a href="https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf">link</a></font></b></p>
