@@ -1,19 +1,4 @@
-<table class="tab">
-  <tr>
-    <td class="first">first row</td>
-  </tr>
-  <tr>
-    <td class="second">second row</td>
-  </tr>
-</table>​​​
-
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
-
-<table style="border-collapse: collapse; border: none;">
+<table border=1  style='border-left:0;border-right:0;border-bottom:0;border-top:0' cellpadding=0 cellspacing=0>
     <td>
         <img src="pics/Pic_00.jpg?raw=true" width="280p" />
     </td>
