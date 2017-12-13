@@ -3,3 +3,5 @@ remote_theme: alshedivat/al-folio
 title: [Hyuk Jun Kweon]
 description: [A short description of your site's purpose]
 show_downloads: false
+
+theme: jekyll-theme-cayman
