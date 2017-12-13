@@ -14,4 +14,4 @@
 I am a graduate student in the Department of Mathematics at MIT.
 
 ## CV
-[a link](https://github.com/kweon7182/kweon7182.github.io/blob/master/files/CV.pdf)
+[a link](kweon7182.github.io/blob/master/files/CV.pdf)
