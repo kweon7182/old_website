@@ -8,7 +8,7 @@
             National Institute for Mathematical Sciences | South Korea</a><br/>
         70, Yuseong-daero 1689beon-gil, Yuseong-gu,<br/>
         Daejeon, Republic of Korea<br/>
-        Email: kweon [at] nims.re.kr
+    Email: kweon [at] nims.re.kr
     </td>
 </table>
 
