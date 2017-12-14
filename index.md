@@ -13,7 +13,7 @@
 </table>
 
 ## About
-I am currently serving in National Institute for Mathematical Sciences (NIMS) as technical research personnel for compulsory military service of South Korea. Before I joined NIMS, I was a graduate student in the Department of Mathematics at MIT.
+I am currently serving in National Institute for Mathematical Sciences (NIMS) as technical research personnel for compulsory military service of South Korea. Before I joined NIMS, I was a Ph.D. student in mathematics at MIT.
 
 My advisor is 
 <a href="http://www-math.mit.edu/~poonen/">
