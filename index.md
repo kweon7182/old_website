@@ -4,7 +4,7 @@
     </td>
     <td>
         <h2>Contact</h2>
-        <a href="https://www.nims.re.kr/eng/">
+        <a href="http://math.mit.edu/index.php">
             MIT Department of Mathematics </a><br/>
         182 Memorial Dr., Bldg. 2-341A <br/>
         Cambridge, MA 02142, USA <br/>
