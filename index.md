@@ -5,10 +5,10 @@
     <td>
         <h2>Contact</h2>
         <a href="https://www.nims.re.kr/eng/">
-            National Institute for Mathematical Sciences | South Korea</a><br/>
-        70, Yuseong-daero 1689beon-gil, Yuseong-gu,<br/>
-        Daejeon, Republic of Korea<br/>
-Email: kweon [at] nims.re.kr
+            MIT Department of Mathematics </a><br/>
+        182 Memorial Dr., Bldg. 2-341A <br/>
+        Cambridge, MA 02142, USA <br/>
+Email: kweon [at] mit.edu
     </td>
 </table>
 
