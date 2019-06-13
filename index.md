@@ -1,6 +1,6 @@
 <table border="0px" cellspacing="0px" cellpadding="0px">
     <td>
-        <img src="pics/Pic_01.jpg?raw=true" width="280px" />
+        <img src="pics/Pic_02.jpg?raw=true" width="280px" />
     </td>
     <td>
         <h2>Contact</h2>
