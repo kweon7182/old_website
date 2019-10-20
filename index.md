@@ -19,5 +19,11 @@ I am a fourth year Ph.D. student in the Department of Mathematics at MIT under t
 </a>
 . My interests lie in algebraic geometry and number theory.
 
+## Papers
+<a href="https://www.sciencedirect.com/science/article/pii/S0925772113000941">
+Overlap of convex polytopes under rigid motion
+</a>
+(with Hee-Kap Ahn; Siu-Wing Cheng and Juyoung Yon). Comput. Geom. 47 (2014), no. 1, 15–24. 52B55 (52B11)
+
 ## CV
 [link](https://github.com/kweon7182/kweon7182.github.io/raw/master/files/CV.pdf)
