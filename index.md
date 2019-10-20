@@ -20,11 +20,11 @@ I am a fourth year Ph.D. student in the Department of Mathematics at MIT under t
 . My interests lie in algebraic geometry and number theory.
 
 ## Papers
-1. 
+1.
 <a href="https://arxiv.org/pdf/1902.02753.pdf">
 A Bound on the Torsion Subgroups of Néron-Severi Groups; preprint.
-</a><br/>
-2. 
+</a>
+2.
 <a href="https://www.sciencedirect.com/science/article/pii/S0925772113000941">
 Overlap of convex polytopes under rigid motion (with Hee-Kap Ahn; Siu-Wing Cheng and Juyoung Yon). Comput. Geom. 47 (2014), no. 1, 15–24. 52B55 (52B11)
 </a>
