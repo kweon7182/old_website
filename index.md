@@ -24,6 +24,7 @@ I am a fourth year Ph.D. student in the Department of Mathematics at MIT under t
 A Bound on the Torsion Subgroups of Néron-Severi Groups
 </a>, preprint.
 
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0925772113000941">
 Overlap of convex polytopes under rigid motion
 </a>
