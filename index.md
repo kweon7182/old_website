@@ -13,7 +13,7 @@ Email: kweon [at] mit.edu
 </table>
 
 ## About
-I am a third year Ph.D. student in the Department of Mathematics at MIT under the guidance of 
+I am a fourth year Ph.D. student in the Department of Mathematics at MIT under the guidance of 
 <a href="http://www-math.mit.edu/~poonen/">
     Bjorn Poonen
 </a>
