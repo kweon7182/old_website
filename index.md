@@ -14,10 +14,7 @@ Email: kweon [at] mit.edu
 
 ## About
 I am a fourth year Ph.D. student in the Department of Mathematics at MIT under the guidance of 
-<a href="http://www-math.mit.edu/~poonen/">
-    Bjorn Poonen
-</a>
-. My interests lie in algebraic geometry and number theory.
+<a href="http://www-math.mit.edu/~poonen/">Bjorn Poonen</a>. My interests lie in algebraic geometry and number theory.
 
 ## Papers
 <a href="https://arxiv.org/pdf/1902.02753.pdf">
