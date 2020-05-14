@@ -17,7 +17,7 @@ I am a fourth year Ph.D. student in the Department of Mathematics at MIT under t
 <a href="http://www-math.mit.edu/~poonen/">Bjorn Poonen</a>. My interests lie in algebraic geometry and number theory.
 
 ## Papers
-1. A Bound on the Torsion Subgroups of Néron-Severi Groups; <a href="https://arxiv.org/abs/1902.02753">preprint (submitted).</a>
+1. A Bound on the Torsion Subgroups of Néron-Severi Groups; <a href="https://arxiv.org/abs/1902.02753">preprint (To be appeared in Transaction of AMS).</a>
 
 2. Overlap of convex polytopes under rigid motion (with Hee-Kap Ahn; Siu-Wing Cheng and Juyoung Yon). 
 <a href="https://www.sciencedirect.com/science/article/pii/S0925772113000941">Comput. Geom. 47 (2014), no. 1, 15–24. 52B55 (52B11)</a>
